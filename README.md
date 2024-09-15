@@ -1,5 +1,7 @@
 # Plant-disease-detection
 
+Used Streamlit to interact with the interface.
+
 Model Output:
 
 
